@@ -80,3 +80,5 @@ To stop the server
 * --without-http_uwsgi_module
 	* uWSGI 프로토콜 지원 모듈
 	
+# NGINX VERSION
+nginx 1.21.1
