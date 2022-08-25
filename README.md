@@ -8,11 +8,11 @@ Change to the bin directory after a successful build
 
 ``` ]# /nginx/sbin ```
 
-Start the server in standalone mode
+Start the NGINX
 
 ``` ./nginx ```
 
-To stop the server
+To stop the NGINX
 
 ``` ./nginx -s stop ```
 
